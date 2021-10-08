@@ -1,1 +1,15 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+- Languages
+  - Spanish (native)
+  - Catalan/Valencian (native)
+  - English (fluent)
+  - Portuguese (conversational)
+  - Croatian (Basic/A2)
+- *Programming languages*
+   - Perl
+   - R
+   - Bash
+   - Python
+   - Basic
+- Other skills
+  - _Eager to learn_ and to pass knowledge to others
+  - ***self-motivated***
