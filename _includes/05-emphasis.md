@@ -1,0 +1,15 @@
+- Languages
+  - Spanish (native)
+  - Catalan/Valencian (native)
+  - English (fluent)
+  - Portuguese (conversational)
+  - Croatian (Basic/A2)
+- *Programming languages*
+   - Perl
+   - R
+   - Bash
+   - Python
+   - Basic
+- Other skills
+  - _Eager to learn_ and to pass knowledge to others
+  - ***self-motivated***
