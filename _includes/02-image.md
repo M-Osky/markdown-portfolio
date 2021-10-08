@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Pandemic+Sun=Anonimity](https://www.dropbox.com/s/jj2e3sdxzvv7czx/2021-06-29%2012.58.51.jpg?dl=0)
