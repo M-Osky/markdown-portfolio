@@ -1,1 +1,1 @@
-## This is the GitHub webpage of Óscar Mira (@M-Osky)
+# This is the GitHub webpage of Óscar Mira
